@@ -5,7 +5,7 @@ const replies = [
     "No.",
     "Don't text.",
     "Don't do it now.",
-    "if you are all Medulla Oblangata! then don't."
+    "if you are all Medulla Oblangata! then don't text."
 ];
 
 function shouldIText(click) {
